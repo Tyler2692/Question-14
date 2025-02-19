@@ -6,6 +6,6 @@ int main()
     cout << "Tyler Keane" << endl
          << "45 Goober Ln, Plano, TX" << endl
          << "732-877-3650" << endl
-         << "Computer Engineering" << endl;
+         << "Software Engineering" << endl;
          return 0;
 }
